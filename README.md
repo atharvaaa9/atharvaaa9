@@ -21,7 +21,7 @@
 I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸. I have a strong focus on information security and full-stack development, specializing in React, React Native, and AWS cloud solutions.
 
 ### 🔍 About Me
-- 💼 **Software Developer** at [ThriveAI](https://thrivelabs.ai/)
+- 💼 **Software Developer** at [Medidata Solutions](https://www.medidata.com/)
 - 📈 **Master of Science in Computer Science** from Stevens Institute of Technology
 - 🔒 **Security-focused developer** with expertise in AWS cloud solutions
 - 🚀 Passionate about building scalable full-stack applications
@@ -29,11 +29,14 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - 🌟 Experience with modern frameworks like React, React Native, and Node.js
 - ❤️ I love writing secure and efficient code
 - 🤝 Open to collaboration on interesting projects
-- 💬 Ask me anything [here](https://github.com/atharvaa9/atharvaa9/issues)
+- 💬 Ask me anything on my personal Github [here](https://github.com/atharvaa9/atharvaa9/issues)
 
 ### 💼 Experience
+#### **Software Engineer**
+**Medidata, Iselin, NJ, USA**  |  **Jun 2025 - Present**
+- Just starting...lots to fill in here soon!
 #### **Software Developer**
-**ThriveAI, USA**  |  **Oct 2024 - Present**
+**ThriveAI, USA**  |  **Oct 2024 - Mar 2025**
 - Developing and maintaining React Native mobile applications with seamless cross-platform functionality
 - Implementing real-time chat features and interactive UI components using React.js
 - Managing AWS cloud infrastructure and deployments
@@ -96,20 +99,22 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - **Efficiency**: Reduced development cycles through optimized CI/CD pipelines and Docker deployments.
 
 ### 🔗 Connect with Me
+- **Company Github** [atharvaaa9](https://github.com/atharvaaa9/)
 - **GitHub**: [atharvaa9](https://github.com/atharvaa9/)
 - **LinkedIn**: [atharvaparte](https://www.linkedin.com/in/atharvaparte/)
 - **Portfolio**: [Portfolio](https://portfolio-atharva-parte.vercel.app/)
-- **Email**: [dev.atharvaparte@gmail.com](mailto:dev.atharvaparte@gmail.com)
+- **Company Email**: [atharva.parte@3ds.com](mailto:atharva.parte@3ds.com)
+- **Personal Email**: [dev.atharvaparte@gmail.com](mailto:dev.atharvaparte@gmail.com)
 
 ### 🌐 Open Source Contributions
 - Check out my contributions to various projects on GitHub! I love collaborating and enhancing open-source software.
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 ![atharvaa9's Stats](https://github-readme-stats.vercel.app/api?username=atharvaa9&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&card_width=450)
 
 ![atharvaa9's Streak](https://github-readme-streak-stats.herokuapp.com/?user=atharvaa9&theme=tokyonight&hide_border=true&card_width=450)
 
-![atharvaa9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaa9&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=450)
+![atharvaa9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvaa9&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&card_width=450)-->
 
 
 ### 🛠️ Tools & Technologies
@@ -123,14 +128,14 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 ### 🔒 Security Focus
 - Implemented comprehensive data security measures, including encryption and secure data protocols, ensuring compliance with international privacy standards.
 
-### 📸 Photo Gallery
+<!--### 📸 Photo Gallery
 <div align="center">
   <p float="left">
     <img src="./assets/grad2.jpeg" width="200" style="margin-right: 10px" />
     <img src="./assets/grad4.jpeg" width="200" style="margin-right: 10px" />
     <img src="./assets/suit1.jpeg" width="200" style="margin-right: 10px" />
   </p>
-</div>
+</div>-->
 
 ---
 
