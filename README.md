@@ -32,9 +32,11 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - 💬 Ask me anything on my personal Github [here](https://github.com/atharvaa9/atharvaa9/issues)
 
 ### 💼 Experience
+
 #### **Software Engineer**
 **Medidata, Iselin, NJ, USA**  |  **Jun 2025 - Present**
 - Just starting...lots to fill in here soon!
+  
 #### **Software Developer**
 **ThriveAI, USA**  |  **Oct 2024 - Mar 2025**
 - Developing and maintaining React Native mobile applications with seamless cross-platform functionality
