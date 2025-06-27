@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/atharvaparte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:dev.atharvaparte@gmail.com">
+  <a href="mailto:atharva.parte@3ds.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://devatharvaparte.com/">
@@ -21,7 +21,7 @@
 I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸. I have a strong focus on information security and full-stack development, specializing in React, React Native, and AWS cloud solutions.
 
 ### 🔍 About Me
-- 💼 **Software Developer** at [Medidata Solutions](https://www.medidata.com/)
+- 💼 **Software Engineer** at [Medidata Solutions](https://www.medidata.com/)
 - 📈 **Master of Science in Computer Science** from Stevens Institute of Technology
 - 🔒 **Security-focused developer** with expertise in AWS cloud solutions
 - 🚀 Passionate about building scalable full-stack applications
@@ -119,8 +119,8 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 
 ### 🛠️ Tools & Technologies
 - **Mobile Development**: React Native, iOS, Android
-- **Frontend**: React.js, Redux, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express.js, Spring Boot
+- **Frontend**: React.js, Redux, Tailwind CSS
+- **Backend**: Node.js, Express.js, Spring Boot, Flask
 - **Cloud**: AWS (extensive experience)
 - **Databases**: MongoDB, PostgreSQL
 - **DevOps**: Docker, Jenkins, GitLab CI/CD, Terraform
