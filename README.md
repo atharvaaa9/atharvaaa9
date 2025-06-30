@@ -18,7 +18,7 @@
 
 <br/>
 
-I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸. I have a strong focus on information security and full-stack development, specializing in React, React Native, and AWS cloud solutions.
+I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸. I have a strong focus on software development, specializing in React, Node JS, Flask, and AWS cloud solutions.
 
 ### 🔍 About Me
 - 💼 **Software Engineer** at [Medidata Solutions](https://www.medidata.com/)
@@ -26,7 +26,7 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - 🔒 **Security-focused developer** with expertise in AWS cloud solutions
 - 🚀 Passionate about building scalable full-stack applications
 - 💡 Strong problem-solver with innovative approaches to complex challenges
-- 🌟 Experience with modern frameworks like React, React Native, and Node.js
+- 🌟 Experience with modern frameworks like React, React Native, Node.js AND Flask
 - ❤️ I love writing secure and efficient code
 - 🤝 Open to collaboration on interesting projects
 - 💬 Ask me anything on my personal Github [here](https://github.com/atharvaa9/atharvaa9/issues)
@@ -38,47 +38,39 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 - Just starting...lots to fill in here soon!
   
 #### 😶‍🌫️ **Software Developer**
-**ThriveAI, USA**  |  **Oct 2024 - Mar 2025**
-- Developing and maintaining React Native mobile applications with seamless cross-platform functionality
-- Implementing real-time chat features and interactive UI components using React.js
-- Managing AWS cloud infrastructure and deployments
-- Building and optimizing backend services using Node.js
-- Implementing user engagement features like quiz systems and interactive chat interfaces
+-**ThriveAI, USA**  |  **Oct 2024 - Mar 2025**
+  - Developing and maintaining React Native mobile applications with seamless cross-platform functionality
+  - Implementing real-time chat features and interactive UI components using React.js
+  - Managing AWS cloud infrastructure and deployments
+  - Building and optimizing backend services using Node.js
+  - Implementing user engagement features like quiz systems and interactive chat interfaces
 
 #### 🎖️ **Web Developer / Full Stack Developer**
-**Bright Mind Enrichment, USA**  |  **Jul 2024 - Oct 2024**
-- Led the design and development of the Bright Mind Wellness Portal using JavaScript, React.js, and Bootstrap, enhancing user engagement through an intuitive interface.
-- Architected backend solutions in Node.js with Express.js, ensuring efficient data handling for thousands of monthly users.
-- Implemented a secure authentication system using JWT to safeguard user data and privacy.
+- **Bright Mind Enrichment, USA**  |  **Jul 2024 - Oct 2024**
+  - Led the design and development of the Bright Mind Wellness Portal using JavaScript, React.js, and Bootstrap, enhancing user engagement through an intuitive interface.
+  - Architected backend solutions in Node.js with Express.js, ensuring efficient data handling for thousands of monthly users.
+  - Implemented a secure authentication system using JWT to safeguard user data and privacy.
 
 #### 👨🏼‍🎓 **Graduate Assistant (Web Developer)**
-**Stevens Institute of Technology, USA**  |  **May 2023 - May 2024**
-- Collaborated with a team to design an interactive room selection platform, enhancing dynamic data visualization across devices.
-- Developed real-time communication features using WebSocket and Node.js for instant messaging and video conferencing.
+- **Stevens Institute of Technology, USA**  |  **May 2023 - May 2024**
+  - Collaborated with a team to design an interactive room selection platform, enhancing dynamic data visualization across devices.
+  - Developed real-time communication features using WebSocket and Node.js for instant messaging and video conferencing.
 
 #### 🏦 **Full Stack Developer**
-**KPMG, India**  |  **Jan 2021 - Jul 2022**
-- Designed an interactive financial analytics dashboard using React.js and Redux, reducing manual report creation by 30 hours per week.
-- Developed backend APIs using Node.js and Express.js to manage complex financial data, ensuring secure data transmission.
+-**KPMG, India**  |  **Jan 2021 - Jul 2022**
+  - Designed an interactive financial analytics dashboard using React.js and Redux, reducing manual report creation by 30 hours per week.
+  - Developed backend APIs using Node.js and Express.js to manage complex financial data, ensuring secure data transmission.
 
 #### 👦🏼 **Frontend Developer**
-**Trigent Software, India**  |  **Jun 2020 - Dec 2020**
-- Architected a microservices-based back-end system using Node.js, reducing server response times significantly.
-- Spearheaded third-party payment integration with Stripe, processing over 1,000 daily transactions securely.
+- **Trigent Software, India**  |  **Jun 2020 - Dec 2020**
+  - Architected a microservices-based back-end system using Node.js, reducing server response times significantly.
+  - Spearheaded third-party payment integration with Stripe, processing over 1,000 daily transactions securely.
 
 ### 🚀 Project Experience
 - **Apology Alchemist: AI-Powered Message Generator**
   - Engineered a full-stack application using Next.js 13 and Firebase, enabling AI-powered apology message generation with a 90% user satisfaction rate 🤖.
   - Implemented secure message sharing system with unique URLs, achieving 100% delivery success rate 🔐.
   - Integrated Google AI for intelligent message generation, reducing message creation time by 70% ⚡.
-
-- **Talent Hunt: A Job Application System**
-  - Enhanced user experience and increased job seeker engagement by 40% using React ⚛️.
-  - Reduced load times by 50% through Redis, Firebase, and LaTeX integration ⏱️.
-
-- **Airline Reservation System**
-  - Built a user-friendly airline reservation website using React.js, Node.js, and MongoDB ✈️.
-  - Maintained 99.9% uptime through continuous testing and debugging processes.
 
 - **CineLog: A Movie Logging System**
   - Streamlined user onboarding, increasing engagement by 18% through intuitive design ✨.
