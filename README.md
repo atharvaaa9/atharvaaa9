@@ -33,36 +33,30 @@ I'm a passionate developer from India 🇮🇳, currently in the States 🇺🇸
 
 ### 💼 Experience
 
-#### ⚕️ **Software Engineer**
-**Medidata, Iselin, NJ, USA**  |  **Jun 2025 - Present**
-- Just starting...lots to fill in here soon!
+#### ⚕️ **Medidata, Iselin, NJ, US** | **Software Engineer** |  **Jun 2025 - Present**
+  - Just starting...lots to fill in here soon!
   
-#### 😶‍🌫️ **Software Developer**
--**ThriveAI, USA**  |  **Oct 2024 - Mar 2025**
+#### 😶‍🌫️ **ThriveAI, NY, US** | **Software Developer** | **Oct 2024 - Mar 2025**
   - Developing and maintaining React Native mobile applications with seamless cross-platform functionality
   - Implementing real-time chat features and interactive UI components using React.js
   - Managing AWS cloud infrastructure and deployments
   - Building and optimizing backend services using Node.js
   - Implementing user engagement features like quiz systems and interactive chat interfaces
 
-#### 🎖️ **Web Developer / Full Stack Developer**
-- **Bright Mind Enrichment, USA**  |  **Jul 2024 - Oct 2024**
+#### 🎖️ **Bright Mind Enrichment, US** | **Web Developer / Full Stack Developer** |  **Jul 2024 - Oct 2024**
   - Led the design and development of the Bright Mind Wellness Portal using JavaScript, React.js, and Bootstrap, enhancing user engagement through an intuitive interface.
   - Architected backend solutions in Node.js with Express.js, ensuring efficient data handling for thousands of monthly users.
   - Implemented a secure authentication system using JWT to safeguard user data and privacy.
 
-#### 👨🏼‍🎓 **Graduate Assistant (Web Developer)**
-- **Stevens Institute of Technology, USA**  |  **May 2023 - May 2024**
+#### 👨🏼‍🎓 **Stevens Institute of Technology, NJ, US**  | **Graduate Assistant (Web Developer)** | **May 2023 - May 2024**
   - Collaborated with a team to design an interactive room selection platform, enhancing dynamic data visualization across devices.
   - Developed real-time communication features using WebSocket and Node.js for instant messaging and video conferencing.
 
-#### 🏦 **Full Stack Developer**
--**KPMG, India**  |  **Jan 2021 - Jul 2022**
+#### 🏦 **KPMG, India**  | **Full Stack Developer** | **Jan 2021 - Jul 2022**
   - Designed an interactive financial analytics dashboard using React.js and Redux, reducing manual report creation by 30 hours per week.
   - Developed backend APIs using Node.js and Express.js to manage complex financial data, ensuring secure data transmission.
 
-#### 👦🏼 **Frontend Developer**
-- **Trigent Software, India**  |  **Jun 2020 - Dec 2020**
+#### 👦🏼 **Trigent Software, India**  | **Frontend Developer** | **Jun 2020 - Dec 2020**
   - Architected a microservices-based back-end system using Node.js, reducing server response times significantly.
   - Spearheaded third-party payment integration with Stripe, processing over 1,000 daily transactions securely.
 
